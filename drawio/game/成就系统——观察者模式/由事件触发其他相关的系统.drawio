@@ -1,0 +1,73 @@
+<mxfile host="Electron" modified="2023-12-28T03:57:03.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="N8jwrjwTkCan4380qOo5" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="K6fegwKubYZRrvmWtUTi">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-25;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="182" y="315" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-5" value="通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="285" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="304" y="250" width="219" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-6">
+          <mxGeometry y="30" width="219" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-8" value="游戏事件系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-6">
+          <mxGeometry x="48" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-17" value="设置" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-6">
+          <mxGeometry x="60" y="45" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-20" value="设置" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-6">
+          <mxGeometry x="60" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="46" y="240" width="124" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-13" value="游戏事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-12">
+          <mxGeometry width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-14" value="敌方阵亡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-12">
+          <mxGeometry y="55" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-15" value="开启新关卡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-12">
+          <mxGeometry y="110" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-16" value="xxxxxx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-12">
+          <mxGeometry y="160" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="220" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-23">
+          <mxGeometry y="14.11764705882353" width="150" height="65.88235294117646" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-25" value="成就系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-23">
+          <mxGeometry x="11.440000000000001" y="-10" width="127.12" height="14.12" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="390" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-28">
+          <mxGeometry y="14.11764705882353" width="150" height="65.88235294117646" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-30" value="游戏系统 A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="Fapu8_4H0h5XIj4bGkCD-28">
+          <mxGeometry x="11.440000000000001" y="-10" width="127.12" height="14.12" as="geometry" />
+        </mxCell>
+        <mxCell id="Fapu8_4H0h5XIj4bGkCD-31" value="通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="526" y="335" width="124" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,28 @@
+<mxfile host="Electron" modified="2023-12-26T06:06:15.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="OVc5ku6WgVXVM8j9V8Mo" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="TRywuL95szdon3shL4DH">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i4ozTK2SmiB_yOGkoDNw-1" value="请求设置" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="314" y="300" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ozTK2SmiB_yOGkoDNw-2" value="参数 1" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="i4ozTK2SmiB_yOGkoDNw-1">
+          <mxGeometry x="16" y="40" width="74" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ozTK2SmiB_yOGkoDNw-3" value="参数 2" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="i4ozTK2SmiB_yOGkoDNw-1">
+          <mxGeometry x="106" y="40" width="74" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ozTK2SmiB_yOGkoDNw-4" value="参数 3" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="i4ozTK2SmiB_yOGkoDNw-1">
+          <mxGeometry x="16" y="110" width="74" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ozTK2SmiB_yOGkoDNw-6" value="功能执行" style="whiteSpace=wrap;html=1;align=center;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ozTK2SmiB_yOGkoDNw-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="433" y="424" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

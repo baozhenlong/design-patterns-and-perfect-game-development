@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2023-12-28T05:35:01.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="qkGpRLYv_975iqKuHPtd" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="NPQw0L-vVwnf0ukthK2b">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PHY_QkspOM1GyOAr0XAD-12" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="460" y="240" width="136" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="PHY_QkspOM1GyOAr0XAD-11" value="订户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PHY_QkspOM1GyOAr0XAD-12" vertex="1">
+          <mxGeometry y="12.63" width="136" height="47.368421052631575" as="geometry" />
+        </mxCell>
+        <mxCell id="PHY_QkspOM1GyOAr0XAD-8" value="订户&amp;nbsp;1" style="whiteSpace=wrap;html=1;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="PHY_QkspOM1GyOAr0XAD-12" vertex="1">
+          <mxGeometry x="18" y="59.99842105263156" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PHY_QkspOM1GyOAr0XAD-9" value="订户&amp;nbsp;2" style="whiteSpace=wrap;html=1;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="PHY_QkspOM1GyOAr0XAD-12" vertex="1">
+          <mxGeometry x="18" y="142.1052631578947" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PHY_QkspOM1GyOAr0XAD-10" value="订户 3" style="whiteSpace=wrap;html=1;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="PHY_QkspOM1GyOAr0XAD-12" vertex="1">
+          <mxGeometry x="18" y="230.00210526315786" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PHY_QkspOM1GyOAr0XAD-20" value="每日发行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sxK_kMoUntRjR5ByK0aS-1" value="报社" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxK_kMoUntRjR5ByK0aS-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="375" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sxK_kMoUntRjR5ByK0aS-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sxK_kMoUntRjR5ByK0aS-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="100" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,64 @@
+<mxfile host="Electron" modified="2024-01-02T12:16:34.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="2DPjAzwrW4Cww6DDK8Pu" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="wP09zzcqBdjWyEU6tM9Q">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SKJmTpDxtaklbQMXJs32-1" value="游戏" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="280" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-3">
+          <mxGeometry y="30" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-3">
+          <mxGeometry y="100" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-6" value="获取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-3">
+          <mxGeometry x="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-7" value="设置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-3">
+          <mxGeometry x="20" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="364" y="280" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-8">
+          <mxGeometry y="30" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-8">
+          <mxGeometry y="100" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-11" value="保存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-8">
+          <mxGeometry x="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-12" value="读取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-8">
+          <mxGeometry x="20" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-13" value="文件系统" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="240" width="120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-23">
+          <mxGeometry y="30" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-19" value="存盘 1" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-23">
+          <mxGeometry x="10" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-20" value="存盘 2" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-23">
+          <mxGeometry x="10" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-21" value="存盘 3" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-23">
+          <mxGeometry x="10" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKJmTpDxtaklbQMXJs32-22" value="存盘管理系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SKJmTpDxtaklbQMXJs32-23">
+          <mxGeometry x="10" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

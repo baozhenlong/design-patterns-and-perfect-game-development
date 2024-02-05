@@ -1,0 +1,85 @@
+<mxfile host="Electron" modified="2024-01-18T08:08:49.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="UFOODY9zqDBLd5el2Epj" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="9MW5LMymGSTipwBF6TsQ">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-LomIykPVkpLy7PQgMLV-1" value="Unity" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry y="120" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-2" value="GameLoop" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-LomIykPVkpLy7PQgMLV-2">
+          <mxGeometry x="45" y="100" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-3" value="BattleState" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-LomIykPVkpLy7PQgMLV-3">
+          <mxGeometry x="45" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-4" value="PBaseDefenseGame" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="140" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-LomIykPVkpLy7PQgMLV-4">
+          <mxGeometry x="65" y="140" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-LomIykPVkpLy7PQgMLV-4">
+          <mxGeometry x="70" y="180" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-18" value="4: InputProcess 玩家输入" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="-LomIykPVkpLy7PQgMLV-17" parent="-LomIykPVkpLy7PQgMLV-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="105" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-LomIykPVkpLy7PQgMLV-4">
+          <mxGeometry x="70" y="260" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-20" value="5: GameSystemUpdate 游戏系统更新" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="-LomIykPVkpLy7PQgMLV-19" parent="-LomIykPVkpLy7PQgMLV-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="105" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-LomIykPVkpLy7PQgMLV-4">
+          <mxGeometry x="70" y="340" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-24" value="6: UserInfoUpdate 玩家界面更新" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="-LomIykPVkpLy7PQgMLV-23" parent="-LomIykPVkpLy7PQgMLV-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="105" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-12" value="1: Update" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;startFill=0;" edge="1" target="-LomIykPVkpLy7PQgMLV-11" parent="1" source="-LomIykPVkpLy7PQgMLV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-14" value="2: StateUpdate" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;startFill=0;" edge="1" target="-LomIykPVkpLy7PQgMLV-13" parent="1" source="-LomIykPVkpLy7PQgMLV-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="245" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-16" value="3: Update" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;startFill=0;" edge="1" target="-LomIykPVkpLy7PQgMLV-15" parent="1" source="-LomIykPVkpLy7PQgMLV-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="265" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="790" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="-LomIykPVkpLy7PQgMLV-28" value="游戏循环" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;spacingLeft=4;spacingRight=4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="210" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

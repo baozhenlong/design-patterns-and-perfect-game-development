@@ -1,0 +1,54 @@
+<mxfile host="Electron" modified="2023-12-22T12:33:04.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="EHfOWUqNnc2Xg3k53X1Q" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="GMVusGZRlMSMawCDJXTQ">
+    <mxGraphModel dx="1098" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GfMySZy1j_qWlQhvUf_Z-1" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="530" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="GfMySZy1j_qWlQhvUf_Z-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="GfMySZy1j_qWlQhvUf_Z-1" source="GfMySZy1j_qWlQhvUf_Z-4" target="GfMySZy1j_qWlQhvUf_Z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GfMySZy1j_qWlQhvUf_Z-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="GfMySZy1j_qWlQhvUf_Z-1" source="GfMySZy1j_qWlQhvUf_Z-4" target="GfMySZy1j_qWlQhvUf_Z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="总经理" treeRoot="1" id="GfMySZy1j_qWlQhvUf_Z-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="GfMySZy1j_qWlQhvUf_Z-1">
+            <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GfMySZy1j_qWlQhvUf_Z-5" value="人事部" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="GfMySZy1j_qWlQhvUf_Z-1">
+          <mxGeometry x="140" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GfMySZy1j_qWlQhvUf_Z-6" value="研发部" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="GfMySZy1j_qWlQhvUf_Z-1">
+          <mxGeometry x="280" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GfMySZy1j_qWlQhvUf_Z-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="GfMySZy1j_qWlQhvUf_Z-8" source="GfMySZy1j_qWlQhvUf_Z-4" parent="GfMySZy1j_qWlQhvUf_Z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfMySZy1j_qWlQhvUf_Z-8" value="产品部" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="GfMySZy1j_qWlQhvUf_Z-1">
+          <mxGeometry x="30" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GfMySZy1j_qWlQhvUf_Z-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="GfMySZy1j_qWlQhvUf_Z-10" source="GfMySZy1j_qWlQhvUf_Z-4" parent="GfMySZy1j_qWlQhvUf_Z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfMySZy1j_qWlQhvUf_Z-10" value="财务部" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="GfMySZy1j_qWlQhvUf_Z-1">
+          <mxGeometry x="390" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GfMySZy1j_qWlQhvUf_Z-13" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" source="GfMySZy1j_qWlQhvUf_Z-4" target="GfMySZy1j_qWlQhvUf_Z-14" parent="GfMySZy1j_qWlQhvUf_Z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="董事长" treeRoot="1" id="GfMySZy1j_qWlQhvUf_Z-14">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="GfMySZy1j_qWlQhvUf_Z-1">
+            <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

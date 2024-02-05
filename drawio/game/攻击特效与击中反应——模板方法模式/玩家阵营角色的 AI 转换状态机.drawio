@@ -1,0 +1,108 @@
+<mxfile host="Electron" modified="2024-01-22T13:01:01.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="zZEseLhi4x1iGZ_QdQZf" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="kk9kjSpcgpGjuqXwuzHn">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="2KpaSYbYvDFaPtu7QiWF-1" parent="1" target="2KpaSYbYvDFaPtu7QiWF-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2KpaSYbYvDFaPtu7QiWF-9" target="2KpaSYbYvDFaPtu7QiWF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-9" value="闲置" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="120" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2KpaSYbYvDFaPtu7QiWF-11" target="2KpaSYbYvDFaPtu7QiWF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-15" value="距离判断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2KpaSYbYvDFaPtu7QiWF-14">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+            <mxPoint x="5" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-11" value="追击" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2KpaSYbYvDFaPtu7QiWF-13" target="2KpaSYbYvDFaPtu7QiWF-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="310" />
+              <mxPoint x="380" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-17" value="攻击距离外" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2KpaSYbYvDFaPtu7QiWF-16">
+          <mxGeometry x="-0.0429" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2KpaSYbYvDFaPtu7QiWF-13" target="2KpaSYbYvDFaPtu7QiWF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-29" value="攻击距离内" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2KpaSYbYvDFaPtu7QiWF-19">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-13" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="540" y="335" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2KpaSYbYvDFaPtu7QiWF-18" target="2KpaSYbYvDFaPtu7QiWF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-22" value="目标是否阵亡&lt;br&gt;或过远" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2KpaSYbYvDFaPtu7QiWF-21">
+          <mxGeometry x="-0.02" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-18" value="攻击" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="680" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2KpaSYbYvDFaPtu7QiWF-20" target="2KpaSYbYvDFaPtu7QiWF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-24" value="目标未阵亡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2KpaSYbYvDFaPtu7QiWF-23">
+          <mxGeometry x="-0.032" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2KpaSYbYvDFaPtu7QiWF-20" target="2KpaSYbYvDFaPtu7QiWF-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="460" />
+              <mxPoint x="180" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-26" value="目标阵亡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2KpaSYbYvDFaPtu7QiWF-25">
+          <mxGeometry x="-0.0099" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2KpaSYbYvDFaPtu7QiWF-20" target="2KpaSYbYvDFaPtu7QiWF-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="375" />
+              <mxPoint x="1000" y="260" />
+              <mxPoint x="380" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-28" value="目标在距离外" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2KpaSYbYvDFaPtu7QiWF-27">
+          <mxGeometry x="0.0619" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KpaSYbYvDFaPtu7QiWF-20" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="900" y="335" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

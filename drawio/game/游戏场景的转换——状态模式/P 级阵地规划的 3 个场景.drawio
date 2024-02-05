@@ -1,0 +1,79 @@
+<mxfile host="Electron" modified="2024-01-12T08:36:40.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="JzlPOnNmIR5MmpPRgmvj" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="77p86GYHr_cefEGVlmw9">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="-uDXEIyhAHKzEyg7iBe3-2" target="-uDXEIyhAHKzEyg7iBe3-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-18" value="开始游戏" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-uDXEIyhAHKzEyg7iBe3-1">
+          <mxGeometry x="-0.1742" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="115" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="-uDXEIyhAHKzEyg7iBe3-6" target="-uDXEIyhAHKzEyg7iBe3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-19" value="游戏初始化完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-uDXEIyhAHKzEyg7iBe3-3">
+          <mxGeometry x="-0.075" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-uDXEIyhAHKzEyg7iBe3-8" target="-uDXEIyhAHKzEyg7iBe3-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-5" value="结束游戏" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-uDXEIyhAHKzEyg7iBe3-4">
+          <mxGeometry x="-0.1556" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-6" value="StartScene" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="387.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-8" value="MainMenuScene" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="387.5" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-uDXEIyhAHKzEyg7iBe3-8" target="-uDXEIyhAHKzEyg7iBe3-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="415" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-10" value="开始游戏&lt;br&gt;进入战斗场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-uDXEIyhAHKzEyg7iBe3-9">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-uDXEIyhAHKzEyg7iBe3-16" target="-uDXEIyhAHKzEyg7iBe3-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="340" />
+              <mxPoint x="370" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-21" value="游戏失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-uDXEIyhAHKzEyg7iBe3-20">
+          <mxGeometry x="-0.0256" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-16" value="BattleScene" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uDXEIyhAHKzEyg7iBe3-17" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="355" y="510" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

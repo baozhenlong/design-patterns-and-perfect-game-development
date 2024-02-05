@@ -1,0 +1,58 @@
+<mxfile host="Electron" modified="2023-12-27T12:56:41.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="JqdLk5JapZSLMZPUAhqr" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="YQBWoWuUpo-zlr5zOfJy">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="315" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-8" value="通知玩家" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-9" value="实现成就" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="182" y="315" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-11" value="通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="285" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="304" y="250" width="219" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kkAWgS2TNhGD2sIW53ZF-17">
+          <mxGeometry y="30" width="219" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-2" value="成就系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="kkAWgS2TNhGD2sIW53ZF-17">
+          <mxGeometry x="48" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-3" value="敌方阵亡单位：3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kkAWgS2TNhGD2sIW53ZF-17">
+          <mxGeometry x="17" y="50" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-4" value="最高关卡：5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kkAWgS2TNhGD2sIW53ZF-17">
+          <mxGeometry x="17" y="90" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-6" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kkAWgS2TNhGD2sIW53ZF-17">
+          <mxGeometry x="17" y="130" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="46" y="240" width="124" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-13" value="游戏事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="kkAWgS2TNhGD2sIW53ZF-18">
+          <mxGeometry width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-14" value="敌方阵亡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="kkAWgS2TNhGD2sIW53ZF-18">
+          <mxGeometry y="55" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-15" value="开启新关卡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="kkAWgS2TNhGD2sIW53ZF-18">
+          <mxGeometry y="110" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkAWgS2TNhGD2sIW53ZF-16" value="xxxxxx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="kkAWgS2TNhGD2sIW53ZF-18">
+          <mxGeometry y="160" width="124" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
